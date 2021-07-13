@@ -1,0 +1,21 @@
+{
+    "name": "Assembly",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Malimbe.BehaviourStateRequirementMethod.dll",
+        "Malimbe.FodyRunner.UnityIntegration.dll",
+        "Malimbe.MemberChangeMethod.dll",
+        "Malimbe.MemberClearanceMethod.dll",
+        "Malimbe.PropertySerializationAttribute.dll",
+        "Malimbe.XmlDocumentationAttribute.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
